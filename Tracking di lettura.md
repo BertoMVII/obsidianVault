@@ -1,6 +1,7 @@
 ---
 cssclasses:
   - cards
+  - booksTracking
 ---
 
 ```dataview
