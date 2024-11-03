@@ -7,7 +7,7 @@ Pagine: "705"
 Pubblicazione: 2011-02-01
 coverUrl: http://books.google.com/books/content?id=3lfEfuG1PD4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 ISBN 13: "9788854128330"
-Status: To read
+Status: Terminato
 Rating: ★★★★★
 ---
 
