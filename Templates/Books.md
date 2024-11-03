@@ -7,5 +7,7 @@ Pagine: "{{totalPage}}"
 Pubblicazione: "{{publishDate}}"
 coverUrl: "{{coverUrl}}"
 ISBN 13: "{{isbn13}}"
+Status: To read
+Rating: ★★★★★
 ---
 
